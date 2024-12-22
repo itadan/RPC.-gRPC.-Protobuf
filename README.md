@@ -46,8 +46,3 @@ docker-compose up --build
 - SQLite: Легковесная база данных для хранения терминов.
 - SQLAlchemy: ORM для работы с базой данных, что упрощает выполнение CRUD-операций.
 
-
-![](./assets/allTerms3.png)
-
-#### Удаление термина
-![](./assets/allTerms4.png)
